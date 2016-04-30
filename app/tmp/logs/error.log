@@ -1,0 +1,3718 @@
+2016-04-18 15:55:25 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 15:56:10 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 15:56:15 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 15:57:11 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 15:57:39 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 15:57:50 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 16:00:38 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 16:01:24 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 16:04:15 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 16:04:19 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 16:05:52 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-18 16:05:56 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 14:53:53 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Controller/Comp...', 'Admin')
+#2 [internal function]: App::load('AclPermissionsC...')
+#3 [internal function]: spl_autoload_call('AclPermissionsC...')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\ComponentCollection.php(110): class_exists('AclPermissionsC...')
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Admin.AclPermis...', Array)
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-04-19 14:55:00 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Controller/Comp...', 'Admin')
+#2 [internal function]: App::load('AclPermissionsC...')
+#3 [internal function]: spl_autoload_call('AclPermissionsC...')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\ComponentCollection.php(110): class_exists('AclPermissionsC...')
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Admin.AclPermis...', Array)
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-04-19 14:55:22 Error: [ConfigureException] Cannot load configuration files with ../ in them.
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(329): PhpReader->read(Array)
+#1 D:\xampp\htdocs\cakephp-2.7.11\app\Config\bootstrap.php(113): Configure::load(Array)
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(98): include('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\bootstrap.php(431): Configure::bootstrap(true)
+#4 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(95): include('D:\\xampp\\htdocs...')
+#5 {main}
+2016-04-19 14:55:39 Error: [ConfigureException] Cannot load configuration files with ../ in them.
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(329): PhpReader->read(Array)
+#1 D:\xampp\htdocs\cakephp-2.7.11\app\Config\bootstrap.php(113): Configure::load(Array)
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(98): include('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\bootstrap.php(431): Configure::bootstrap(true)
+#4 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(95): include('D:\\xampp\\htdocs...')
+#5 {main}
+2016-04-19 14:55:52 Error: [ConfigureException] Cannot load configuration files with ../ in them.
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(329): PhpReader->read(Array)
+#1 D:\xampp\htdocs\cakephp-2.7.11\app\Config\bootstrap.php(113): Configure::load(Array)
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(98): include('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\bootstrap.php(431): Configure::bootstrap(true)
+#4 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(95): include('D:\\xampp\\htdocs...')
+#5 {main}
+2016-04-19 14:56:29 Error: [ConfigureException] Cannot load configuration files with ../ in them.
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(329): PhpReader->read(Array)
+#1 D:\xampp\htdocs\cakephp-2.7.11\app\Config\bootstrap.php(113): Configure::load(Array)
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(98): include('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\bootstrap.php(431): Configure::bootstrap(true)
+#4 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(95): include('D:\\xampp\\htdocs...')
+#5 {main}
+2016-04-19 14:56:46 Error: [ConfigureException] Could not load configuration file: D:\xampp\htdocs\cakephp-2.7.11\app\Config\Admin.php
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(329): PhpReader->read('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\app\Config\bootstrap.php(113): Configure::load('Admin')
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(98): include('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\bootstrap.php(431): Configure::bootstrap(true)
+#4 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(95): include('D:\\xampp\\htdocs...')
+#5 {main}
+2016-04-19 14:56:51 Error: [ConfigureException] Could not load configuration file: D:\xampp\htdocs\cakephp-2.7.11\app\Config\Admin.php
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(329): PhpReader->read('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\app\Config\bootstrap.php(113): Configure::load('Admin')
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\Configure.php(98): include('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\bootstrap.php(431): Configure::bootstrap(true)
+#4 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(95): include('D:\\xampp\\htdocs...')
+#5 {main}
+2016-04-19 14:57:00 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Controller/Comp...', 'Admin')
+#2 [internal function]: App::load('AclPermissionsC...')
+#3 [internal function]: spl_autoload_call('AclPermissionsC...')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\ComponentCollection.php(110): class_exists('AclPermissionsC...')
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Admin.AclPermis...', Array)
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(PagesController))
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-04-19 15:12:15 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:12:23 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:28:49 Error: [MissingControllerException] Controller class DashboardController could not be found.
+Exception Attributes: array (
+  'class' => 'DashboardController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:29:08 Error: [MissingViewException] View file "Dashboard\admin_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Dashboard\\admin_index.ctp',
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#4 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-04-19 15:39:52 Error: [MissingTableException] Table dashboards for model Dashboard was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'dashboards',
+  'class' => 'Dashboard',
+  'ds' => 'default',
+)
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Model\Model.php(3653): Model->setSource('dashboards')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\Helper\FormHelper.php(468): FormHelper->_introspectModel('Dashboard', 'fields')
+#4 D:\xampp\htdocs\cakephp-2.7.11\app\Plugin\admin\View\Dashboard\admin_index.ctp(6): FormHelper->create(NULL, Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(971): include('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(933): View->_evaluate('D:\\xampp\\htdocs...', Array)
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(473): View->_render('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#10 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#11 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-04-19 15:42:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:42:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/css/nice-admin.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:42:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:44:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:44:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/css/nice-admin.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:44:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:45:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:45:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/css/nice-admin.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:45:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:45:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:45:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/css/nice-admin.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:45:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:46:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:46:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/css/nice-admin.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:46:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:46:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:46:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/css/nice-admin.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:46:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:47:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:47:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/css/nice-admin.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:47:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/js/common.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-19 15:47:41 Error: [CakeException] Method session does not exist
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\Plugin\admin\View\Elements\navigation.ctp(3): CakeRequest->__call('session', Array)
+#1 D:\xampp\htdocs\cakephp-2.7.11\app\Plugin\admin\View\Elements\navigation.ctp(3): CakeRequest->session()
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(971): include('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(933): View->_evaluate('D:\\xampp\\htdocs...', Array)
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(1224): View->_render('D:\\xampp\\htdocs...', Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(418): View->_renderElement('D:\\xampp\\htdocs...', Array, Array)
+#6 D:\xampp\htdocs\cakephp-2.7.11\app\Plugin\admin\View\Layouts\admin.ctp(25): View->element('navigation')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(971): include('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(933): View->_evaluate('D:\\xampp\\htdocs...', Array)
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(546): View->_render('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(481): View->renderLayout('', 'admin')
+#11 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#12 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#13 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#14 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2016-04-19 15:47:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/css/nice-admin.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-20 11:40:55 Error: [MissingViewException] View file "Pages\widgets.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\widgets.html.ctp',
+)
+Request URL: /cakephp-2.7.11/pages/widgets.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName('widgets.html')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render('widgets.html', NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PagesController.php(68): Controller->render('widgets.html')
+#3 [internal function]: PagesController->display('widgets.html')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-20 11:41:00 Error: [MissingViewException] View file "Pages\pages\charts\morris.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\pages\\charts\\morris.html.ctp',
+)
+Request URL: /cakephp-2.7.11/pages/pages/charts/morris.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName('pages/charts/mo...')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render('pages/charts/mo...', NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PagesController.php(68): Controller->render('pages/charts/mo...')
+#3 [internal function]: PagesController->display('pages', 'charts', 'morris.html')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-20 11:42:31 Error: [MissingViewException] View file "Pages\examples\invoice.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\examples\\invoice.html.ctp',
+)
+Request URL: /cakephp-2.7.11/pages/examples/invoice.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName('examples/invoic...')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render('examples/invoic...', NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PagesController.php(68): Controller->render('examples/invoic...')
+#3 [internal function]: PagesController->display('examples', 'invoice.html')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-20 11:42:34 Error: [MissingViewException] View file "Pages\examples\pages\mailbox.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\examples\\pages\\mailbox.html.ctp',
+)
+Request URL: /cakephp-2.7.11/pages/examples/pages/mailbox.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName('examples/pages/...')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render('examples/pages/...', NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PagesController.php(68): Controller->render('examples/pages/...')
+#3 [internal function]: PagesController->display('examples', 'pages', 'mailbox.html')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-20 11:42:36 Error: [MissingViewException] View file "Pages\examples\pages\pages\calendar.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\examples\\pages\\pages\\calendar.html.ctp',
+)
+Request URL: /cakephp-2.7.11/pages/examples/pages/pages/calendar.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName('examples/pages/...')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render('examples/pages/...', NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PagesController.php(68): Controller->render('examples/pages/...')
+#3 [internal function]: PagesController->display('examples', 'pages', 'pages', 'calendar.html')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-20 11:42:40 Error: [MissingViewException] View file "Pages\examples\pages\pages\pages\tables\simple.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\examples\\pages\\pages\\pages\\tables\\simple.html.ctp',
+)
+Request URL: /cakephp-2.7.11/pages/examples/pages/pages/pages/tables/simple.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName('examples/pages/...')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render('examples/pages/...', NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PagesController.php(68): Controller->render('examples/pages/...')
+#3 [internal function]: PagesController->display('examples', 'pages', 'pages', 'pages', 'tables', 'simple.html')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-20 11:42:40 Error: [MissingViewException] View file "Pages\examples\pages\pages\pages\tables\simple.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\examples\\pages\\pages\\pages\\tables\\simple.html.ctp',
+)
+Request URL: /cakephp-2.7.11/pages/examples/pages/pages/pages/tables/simple.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName('examples/pages/...')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render('examples/pages/...', NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PagesController.php(68): Controller->render('examples/pages/...')
+#3 [internal function]: PagesController->display('examples', 'pages', 'pages', 'pages', 'tables', 'simple.html')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-20 11:42:48 Error: [MissingViewException] View file "Pages\examples\pages\pages\pages\tables\pages\charts\morris.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\examples\\pages\\pages\\pages\\tables\\pages\\charts\\morris.html.ctp',
+)
+Request URL: /cakephp-2.7.11/pages/examples/pages/pages/pages/tables/pages/charts/morris.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName('examples/pages/...')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render('examples/pages/...', NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PagesController.php(68): Controller->render('examples/pages/...')
+#3 [internal function]: PagesController->display('examples', 'pages', 'pages', 'pages', 'tables', 'pages', 'charts', 'morris.html')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-20 11:42:57 Error: [MissingViewException] View file "Pages\UI\general.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\UI\\general.html.ctp',
+)
+Request URL: /cakephp-2.7.11/pages/UI/general.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName('UI/general.html')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render('UI/general.html', NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PagesController.php(68): Controller->render('UI/general.html')
+#3 [internal function]: PagesController->display('UI', 'general.html')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-22 13:16:14 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/dist/css/skins/_all-skins.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:16:15 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/dist/css/AdminLTE.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:22:55 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:22:55 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:22:56 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:24:10 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:24:10 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:24:11 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:24:44 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:24:44 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:24:45 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:31:38 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:31:38 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:31:39 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:38:26 Error: Fatal Error (4): syntax error, unexpected ')' in [D:\xampp\htdocs\cakephp-2.7.11\app\Plugin\admin\View\Layouts\admin.ctp, line 63]
+2016-04-22 13:38:26 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /cakephp-2.7.11/admin
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 63)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 63, Array)
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 63, Array)
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-04-22 13:51:11 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:51:11 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 13:51:12 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:24:35 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:24:35 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:30:05 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:30:05 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:30:05 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:38:45 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:38:45 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:38:46 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:38:46 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:38:46 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:38:47 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:40:40 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:40:40 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:40:41 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:40:46 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:40:46 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:40:47 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:40:55 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:40:55 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:40:56 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:43:06 Error: [MissingViewException] View file "Pages\widgets.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\widgets.html.ctp',
+)
+Request URL: /cakephp-2.7.11/pages/widgets.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(470): View->_getViewFileName('widgets.html')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render('widgets.html', NULL)
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PagesController.php(68): Controller->render('widgets.html')
+#3 [internal function]: PagesController->display('widgets.html')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-04-22 14:43:08 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:43:08 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:43:09 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:43:26 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:43:26 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:43:27 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:45:49 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:45:49 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:45:50 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:45:51 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:45:51 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:45:51 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/fonts/fontawesome-webfont.woff2?v=4.4.0
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:45:51 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/fonts/fontawesome-webfont.woff?v=4.4.0
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:45:51 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/fonts/fontawesome-webfont.ttf?v=4.4.0
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:45:52 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:50:17 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:50:17 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:51:14 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:51:14 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:51:14 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:51:42 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:51:42 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:51:42 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:52:51 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:52:51 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:52:52 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:54:57 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:54:57 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:54:58 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:55:56 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:55:56 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:55:57 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:56:21 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:56:21 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:56:21 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:56:45 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:56:45 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:56:45 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:57:36 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:57:36 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:57:36 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:58:24 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:58:24 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:58:24 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:59:29 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:59:29 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 14:59:29 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:00:07 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:00:07 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:00:07 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:00:31 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:00:31 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:00:31 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:01:07 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:01:07 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:01:07 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:01:42 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:01:42 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:01:42 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:02:05 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:02:05 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:02:05 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:02:47 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user3-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:02:47 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:02:47 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user4-128x128.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:03:55 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:04:18 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:04:41 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:05:20 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:05:21 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:05:21 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:05:23 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:05:23 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:05:25 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:05:26 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:05:39 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:05:50 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:05:59 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:06:06 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:06:09 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:06:09 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:06:31 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:08:04 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:08:27 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:09:19 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:09:22 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:09:32 Error: [MissingActionException] Action UsersController::dist() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'dist',
+)
+Request URL: /cakephp-2.7.11/admin/users/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-22 15:09:34 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:09:45 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:11:04 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:11:14 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:11:15 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:11:28 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:11:29 Error: [MissingControllerException] Controller class Index2.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Index2.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//index2.html
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:12:02 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:12:03 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:19:00 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:19:02 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:19:23 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:19:25 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:20:34 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:20:36 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:20:45 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:20:56 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:21:59 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:22:27 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:22:39 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:23:03 Error: [MissingHelperException] Helper class urlHelper could not be found.
+Exception Attributes: array (
+  'class' => 'urlHelper',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\HelperCollection.php(66): HelperCollection->load('Admin.url')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(858): HelperCollection->__isset('url')
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\Plugin\admin\View\Layouts\admin.ctp(49): View->__get('url')
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(971): include('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(933): View->_evaluate('D:\\xampp\\htdocs...', Array)
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(546): View->_render('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(481): View->renderLayout('', 'admin')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-04-22 15:23:03 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:23:26 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:23:58 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:24:07 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:25:14 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:25:35 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:25:37 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:25:38 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:25:40 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:25:42 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:25:44 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:25:51 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:25:53 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:25:54 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:26:02 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:27:53 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:29:08 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:29:17 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:29:20 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:29:27 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:29:39 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:30:07 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:32:28 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:32:40 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:32:41 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:32:43 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:32:46 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:33:12 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:33:22 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:33:23 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:33:25 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:33:29 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:44:50 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:44:55 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:45:02 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:45:03 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:45:05 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:45:09 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-22 15:45:12 Error: [MissingActionException] Action UsersController::admin_dist() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_dist',
+)
+Request URL: /cakephp-2.7.11/admin/admin/users/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-29 15:25:46 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:25:49 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:27:01 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:27:56 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:28:41 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:30:08 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:30:33 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:31:17 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:34:21 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:34:41 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:35:00 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:35:54 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:35:57 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:36:16 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:41:06 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/permissions
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Controller', 'Admin')
+#2 [internal function]: App::load('AdminAppControl...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\PermissionsController.php(12): spl_autoload_call('AdminAppControl...')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('PermissionsCont...')
+#6 [internal function]: spl_autoload_call('PermissionsCont...')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(266): class_exists('PermissionsCont...')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#10 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-04-29 15:41:11 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:42:49 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Controller', 'Admin')
+#2 [internal function]: App::load('AdminAppControl...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\DashboardController.php(12): spl_autoload_call('AdminAppControl...')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('DashboardContro...')
+#6 [internal function]: spl_autoload_call('DashboardContro...')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(266): class_exists('DashboardContro...')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#10 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-04-29 15:43:09 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Controller', 'Admin')
+#2 [internal function]: App::load('AdminAppControl...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\DashboardController.php(12): spl_autoload_call('AdminAppControl...')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('DashboardContro...')
+#6 [internal function]: spl_autoload_call('DashboardContro...')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(266): class_exists('DashboardContro...')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#10 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-04-29 15:43:42 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Controller', 'Admin')
+#2 [internal function]: App::load('AdminAppControl...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\DashboardController.php(12): spl_autoload_call('AdminAppControl...')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('DashboardContro...')
+#6 [internal function]: spl_autoload_call('DashboardContro...')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(266): class_exists('DashboardContro...')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#10 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-04-29 15:44:34 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11/admin/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Controller', 'Admin')
+#2 [internal function]: App::load('AppController')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\DashboardController.php(12): spl_autoload_call('AppController')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('DashboardContro...')
+#6 [internal function]: spl_autoload_call('DashboardContro...')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(266): class_exists('DashboardContro...')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#10 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-04-29 15:45:03 Error: [MissingActionException] Action DashboardController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'DashboardController',
+  'action' => 'index',
+)
+Request URL: /cakephp-2.7.11/admin/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-29 15:45:31 Error: [MissingActionException] Action DashboardController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'DashboardController',
+  'action' => 'index',
+)
+Request URL: /cakephp-2.7.11/admin/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-29 15:46:13 Error: [MissingActionException] Action DashboardController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'DashboardController',
+  'action' => 'index',
+)
+Request URL: /cakephp-2.7.11/admin/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-29 15:46:31 Error: [MissingActionException] Action DashboardController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'DashboardController',
+  'action' => 'index',
+)
+Request URL: /cakephp-2.7.11/admin/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#2 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-29 15:49:55 Error: [MissingLayoutException] Layout file "Layouts\admin.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Layouts\\admin.ctp',
+)
+Request URL: /cakephp-2.7.11/admin/
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(514): View->_getLayoutFileName('admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\View\View.php(481): View->renderLayout('', 'admin')
+#2 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#3 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#5 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-04-29 15:50:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/css/bootstrap.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:05 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/jQuery/jQuery-2.1.4.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:05 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/skins/_all-skins.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:05 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:05 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:05 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/slimScroll/jquery.slimscroll.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:05 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/fastclick/fastclick.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:05 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/app.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:05 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/demo.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:06 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/AdminLTE.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:08 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:09 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/slimScroll/jquery.slimscroll.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:10 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/fastclick/fastclick.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:11 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/app.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:12 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/demo.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:49 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/jQuery/jQuery-2.1.4.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:49 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:49 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/skins/_all-skins.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:49 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:49 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/AdminLTE.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:49 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/fastclick/fastclick.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:49 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/slimScroll/jquery.slimscroll.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:50 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/app.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:50 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/demo.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/css/bootstrap.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:51 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:51 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/slimScroll/jquery.slimscroll.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:51 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/fastclick/fastclick.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:51 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/app.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:51 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/demo.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:50:52 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/AdminLTE.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/css/bootstrap.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/skins/_all-skins.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/fastclick/fastclick.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/slimScroll/jquery.slimscroll.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/app.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/demo.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:39 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/jQuery/jQuery-2.1.4.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:39 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:39 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/slimScroll/jquery.slimscroll.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:39 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/fastclick/fastclick.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:39 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/app.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:39 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/demo.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:51:40 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/css/bootstrap.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:52 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/jQuery/jQuery-2.1.4.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:52 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/skins/_all-skins.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:52 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:52 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:52 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/slimScroll/jquery.slimscroll.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:52 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/fastclick/fastclick.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:53 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/app.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:53 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/demo.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:53 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/AdminLTE.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:53 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:54 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:56 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/slimScroll/jquery.slimscroll.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:57 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/fastclick/fastclick.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:58 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/app.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:55:59 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/demo.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:37 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/skins/_all-skins.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:37 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/jQuery/jQuery-2.1.4.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:37 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/AdminLTE.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:37 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:37 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:37 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/slimScroll/jquery.slimscroll.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:37 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/fastclick/fastclick.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:37 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/app.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:37 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/demo.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/css/bootstrap.min.css
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/slimScroll/jquery.slimscroll.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/plugins/fastclick/fastclick.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/app.min.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:38 Error: [MissingControllerException] Controller class Admin-lteController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin-lteController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/Admin-lte/demo.js
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:57:39 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:58:29 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11/admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:58:32 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Controller', 'Admin')
+#2 [internal function]: App::load('AdminAppControl...')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\UsersController.php(12): spl_autoload_call('AdminAppControl...')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('UsersController')
+#6 [internal function]: spl_autoload_call('UsersController')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsersController')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#10 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-04-29 15:58:33 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:59:10 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Model', 'Admin')
+#2 [internal function]: App::load('User')
+#3 [internal function]: spl_autoload_call('User')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Utility\ClassRegistry.php(146): class_exists('User')
+#5 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(741): ClassRegistry::init(Array)
+#6 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(367): Controller->loadModel('Admin.User')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(269): Controller->__isset('User')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(135): PaginatorComponent->_getObject('User')
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate('User', Array, Array)
+#10 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\UsersController.php(38): Controller->paginate('User')
+#11 [internal function]: UsersController->admin_index()
+#12 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#13 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#14 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-04-29 15:59:12 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 15:59:42 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Model', 'Admin')
+#2 [internal function]: App::load('AdminAppModel')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Model\User.php(12): spl_autoload_call('AdminAppModel')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('User')
+#6 [internal function]: spl_autoload_call('User')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Utility\ClassRegistry.php(146): class_exists('User')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(741): ClassRegistry::init(Array)
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(367): Controller->loadModel('User')
+#10 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(269): Controller->__isset('User')
+#11 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(135): PaginatorComponent->_getObject('User')
+#12 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate('User', Array, Array)
+#13 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\UsersController.php(38): Controller->paginate('User')
+#14 [internal function]: UsersController->admin_index()
+#15 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#16 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#17 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#18 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2016-04-29 15:59:44 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 16:00:21 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Model', 'Admin')
+#2 [internal function]: App::load('AdminAppModel')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Model\User.php(12): spl_autoload_call('AdminAppModel')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('User')
+#6 [internal function]: spl_autoload_call('User')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Utility\ClassRegistry.php(146): class_exists('User')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(741): ClassRegistry::init(Array)
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(367): Controller->loadModel('User')
+#10 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(269): Controller->__isset('User')
+#11 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(135): PaginatorComponent->_getObject('User')
+#12 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate('User', Array, Array)
+#13 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\UsersController.php(39): Controller->paginate('User')
+#14 [internal function]: UsersController->admin_index()
+#15 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#16 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#17 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#18 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2016-04-29 16:00:23 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 16:03:06 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Model', 'Admin')
+#2 [internal function]: App::load('AdminAppModel')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Model\User.php(12): spl_autoload_call('AdminAppModel')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('User')
+#6 [internal function]: spl_autoload_call('User')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Utility\ClassRegistry.php(146): class_exists('User')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(741): ClassRegistry::init(Array)
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(367): Controller->loadModel('User')
+#10 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(269): Controller->__isset('User')
+#11 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(135): PaginatorComponent->_getObject('User')
+#12 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate('User', Array, Array)
+#13 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\UsersController.php(39): Controller->paginate('User')
+#14 [internal function]: UsersController->admin_index()
+#15 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#16 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#17 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#18 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2016-04-29 16:03:07 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Model', 'Admin')
+#2 [internal function]: App::load('AdminAppModel')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Model\User.php(12): spl_autoload_call('AdminAppModel')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(547): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('User')
+#6 [internal function]: spl_autoload_call('User')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Utility\ClassRegistry.php(146): class_exists('User')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(741): ClassRegistry::init(Array)
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(367): Controller->loadModel('User')
+#10 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(269): Controller->__isset('User')
+#11 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(135): PaginatorComponent->_getObject('User')
+#12 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate('User', Array, Array)
+#13 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\UsersController.php(39): Controller->paginate('User')
+#14 [internal function]: UsersController->admin_index()
+#15 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#16 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#17 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#18 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2016-04-29 16:03:08 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 16:03:16 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Model', 'Admin')
+#2 [internal function]: App::load('AdminAppModel')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Model\User.php(12): spl_autoload_call('AdminAppModel')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(547): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('User')
+#6 [internal function]: spl_autoload_call('User')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Utility\ClassRegistry.php(146): class_exists('User')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(741): ClassRegistry::init(Array)
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(367): Controller->loadModel('User')
+#10 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(269): Controller->__isset('User')
+#11 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(135): PaginatorComponent->_getObject('User')
+#12 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate('User', Array, Array)
+#13 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\UsersController.php(39): Controller->paginate('User')
+#14 [internal function]: UsersController->admin_index()
+#15 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#16 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#17 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#18 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2016-04-29 16:03:17 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Model', 'Admin')
+#2 [internal function]: App::load('AdminAppModel')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Model\User.php(12): spl_autoload_call('AdminAppModel')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('User')
+#6 [internal function]: spl_autoload_call('User')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Utility\ClassRegistry.php(146): class_exists('User')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(741): ClassRegistry::init(Array)
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(367): Controller->loadModel('User')
+#10 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(269): Controller->__isset('User')
+#11 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(135): PaginatorComponent->_getObject('User')
+#12 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate('User', Array, Array)
+#13 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\UsersController.php(39): Controller->paginate('User')
+#14 [internal function]: UsersController->admin_index()
+#15 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#16 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#17 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#18 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2016-04-29 16:03:18 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-29 16:03:27 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Model', 'Admin')
+#2 [internal function]: App::load('AdminAppModel')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Model\User.php(12): spl_autoload_call('AdminAppModel')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(547): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('User')
+#6 [internal function]: spl_autoload_call('User')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Utility\ClassRegistry.php(146): class_exists('User')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(741): ClassRegistry::init(Array)
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(367): Controller->loadModel('User')
+#10 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(269): Controller->__isset('User')
+#11 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(135): PaginatorComponent->_getObject('User')
+#12 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate('User', Array, Array)
+#13 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\UsersController.php(39): Controller->paginate('User')
+#14 [internal function]: UsersController->admin_index()
+#15 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#16 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#17 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#18 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2016-04-29 16:03:29 Error: [MissingPluginException] Plugin Admin could not be found.
+Exception Attributes: array (
+  'plugin' => 'Admin',
+)
+Request URL: /cakephp-2.7.11//admin/users
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(227): CakePlugin::path('Admin')
+#1 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(549): App::path('Model', 'Admin')
+#2 [internal function]: App::load('AdminAppModel')
+#3 D:\xampp\htdocs\cakephp-2.7.11\app\Model\User.php(12): spl_autoload_call('AdminAppModel')
+#4 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Core\App.php(567): include('D:\\xampp\\htdocs...')
+#5 [internal function]: App::load('User')
+#6 [internal function]: spl_autoload_call('User')
+#7 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Utility\ClassRegistry.php(146): class_exists('User')
+#8 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(741): ClassRegistry::init(Array)
+#9 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(367): Controller->loadModel('User')
+#10 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(269): Controller->__isset('User')
+#11 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Component\PaginatorComponent.php(135): PaginatorComponent->_getObject('User')
+#12 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate('User', Array, Array)
+#13 D:\xampp\htdocs\cakephp-2.7.11\app\Controller\UsersController.php(39): Controller->paginate('User')
+#14 [internal function]: UsersController->admin_index()
+#15 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#16 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#17 D:\xampp\htdocs\cakephp-2.7.11\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#18 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2016-04-29 16:03:30 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.11//admin/dist/img/user2-160x160.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\cakephp-2.7.11\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
